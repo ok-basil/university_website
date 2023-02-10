@@ -12,5 +12,4 @@ function university_files() {
         'nonce' => wp_create_nonce('wp_rest')
     ));
 }
-
 add_action('wp_enqueue_scripts', 'university_files');
