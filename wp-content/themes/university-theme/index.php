@@ -6,7 +6,6 @@
         <?php the_content(); ?>
         <hr>
     <?php }
-
     get_footer();
-    
+
 ?>
