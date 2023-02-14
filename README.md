@@ -1,1 +1,1 @@
-University site built using PHP and WordPress
+Fictional university site built using PHP and WordPress
